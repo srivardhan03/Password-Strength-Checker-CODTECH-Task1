@@ -86,3 +86,12 @@ Users receive a detailed review of their password with specific suggestions for 
 <h3>Enhanced Security:</h3> By using the Password Strength Checker, users can create stronger, more secure passwords, reducing the risk of unauthorized access.
 <h3>Educational Tool:</h3> Helps users understand the components of a strong password and the importance of password security.
 <h3>Immediate Feedback:</h3> Provides real-time feedback, making it easy for users to adjust their passwords and see the impact of those changes instantly. 
+
+
+![Screenshot 2024-07-19 193227](https://github.com/user-attachments/assets/11713129-5547-49b9-83ff-78ad95d7b221)
+
+![Screenshot 2024-07-19 193421](https://github.com/user-attachments/assets/2f7e7d3f-e5a9-402c-9d3e-82764fc50533)
+
+![Screenshot 2024-07-19 193618](https://github.com/user-attachments/assets/c62fb65f-357e-4ce0-b3d9-279d8fe6c994)
+
+![Screenshot 2024-07-19 193729](https://github.com/user-attachments/assets/56a9ba7a-5802-4c58-a92b-fe766ef62596)
