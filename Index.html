@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Strength Checker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>How Secure is Your Password?</h1>
+            <p>Take the Password Test</p>
+            <p class="tip">Tip: Avoid sequences or repeated characters in your passwords</p>
+        </header>
+        <main>
+            <div class="input-wrapper">
+                <input type="password" id="password" placeholder="Type a password">
+                <label>
+                    <input type="checkbox" id="showPassword"> Show password
+                </label>
+            </div>
+            <button id="evaluateButton">Evaluate</button>
+            <div class="password-info">
+                <p id="passwordStatus">No Password</p>
+                <p><span id="characterCount">0</span> characters containing: <span id="criteria">Lower case, Upper case, Numbers, Symbols</span></p>
+            </div>
+            <div class="criteria-container">
+                <span id="lowercase" class="criteria">Lower case</span>
+                <span id="uppercase" class="criteria">Upper case</span>
+                <span id="numbers" class="criteria">Numbers</span>
+                <span id="symbols" class="criteria">Symbols</span>
+            </div>
+            <div class="result-container">
+                <h2>Time to crack your password:</h2>
+                <p id="crackTime">0 second</p>
+                <h2>Review:</h2>
+                <p id="review">Enter a password to see the review</p>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
