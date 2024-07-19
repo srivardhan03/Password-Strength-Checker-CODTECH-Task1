@@ -1,8 +1,13 @@
 Name: SRIVARDHAN S
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT4CSEH2712
+
 Domain: CYBER SECURITY&ETHICAL HACKING
+
 Duration: JUNE to JULY 2024
+
 Mentor: NEELA SANTHOSH KUMAR
 
 
@@ -15,9 +20,9 @@ The Password Strength Checker is a comprehensive, web-based tool designed to hel
 
 <h2>Key Objectives</h2>
 
-<h3>**Security Awareness:**</h3> Educate users about the importance of strong passwords and the potential risks associated with weak ones.
-</h3>**User Assistance:**</h3> Provide immediate, actionable feedback to help users create stronger passwords.
-</h3>**Usability:**</h3> Ensure the tool is easy to use and accessible on various devices, including desktops and mobile devices.
+<h3>Security Awareness:</h3> Educate users about the importance of strong passwords and the potential risks associated with weak ones.
+</h3>User Assistance:</h3> Provide immediate, actionable feedback to help users create stronger passwords.
+</h3>Usability:</h3> Ensure the tool is easy to use and accessible on various devices, including desktops and mobile devices.
 
 <h2>Features</h2>
 
@@ -76,8 +81,8 @@ The tool estimates the time it would take to crack the password using brute-forc
 <h2>Review and Recommendations:</h2>
 Users receive a detailed review of their password with specific suggestions for improvement.
 
-<h2>**Benefits**</h2>
+<h2>Benefits</h2>
 
-<h3>**Enhanced Security:**</h3> By using the Password Strength Checker, users can create stronger, more secure passwords, reducing the risk of unauthorized access.
-<h3>**Educational Tool:**</h3> Helps users understand the components of a strong password and the importance of password security.
-<h3>**Immediate Feedback:**</h3> Provides real-time feedback, making it easy for users to adjust their passwords and see the impact of those changes instantly. 
+<h3>Enhanced Security:</h3> By using the Password Strength Checker, users can create stronger, more secure passwords, reducing the risk of unauthorized access.
+<h3>Educational Tool:</h3> Helps users understand the components of a strong password and the importance of password security.
+<h3>Immediate Feedback:</h3> Provides real-time feedback, making it easy for users to adjust their passwords and see the impact of those changes instantly. 
